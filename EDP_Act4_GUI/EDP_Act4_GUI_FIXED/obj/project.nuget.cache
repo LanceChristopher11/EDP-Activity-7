@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQWLbT93dRM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\documentformat.openxml\\3.5.1\\documentformat.openxml.3.5.1.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\documentformat.openxml.framework\\3.5.1\\documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Delos Reyes\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
