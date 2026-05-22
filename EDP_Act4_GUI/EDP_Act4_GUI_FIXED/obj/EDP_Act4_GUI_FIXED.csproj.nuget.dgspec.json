@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj": {}
+    "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj": {
+    "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj",
+        "projectUniqueName": "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj",
         "projectName": "EDP_Act4_GUI_FIXED",
-        "projectPath": "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj",
+        "projectPath": "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\EDP_Act4_GUI_FIXED.csproj",
         "packagesPath": "C:\\Users\\Delos Reyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\obj\\",
+        "outputPath": "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\EDP_Act4_GUI_FIXED\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Delos Reyes\\Documents\\EDP_Act4_GUI\\NuGet.Config",
+          "C:\\Users\\Delos Reyes\\Documents\\GitHub\\EDP-Activity-7\\EDP_Act4_GUI\\NuGet.Config",
           "C:\\Users\\Delos Reyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

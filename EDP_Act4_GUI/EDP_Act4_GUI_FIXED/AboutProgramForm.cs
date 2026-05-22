@@ -79,6 +79,10 @@ public class AboutProgramForm : ShellForm
         dashboardButton.Click += (_, _) => Navigation.Open(this, new DashboardForm());
         modules.Controls.Add(dashboardButton);
 
+        Button act7Button = Theme.CreateSecondaryButton("Just added for activity 7 lol", 40, 560, 280, 44);
+        // Button is intended to not do anything HAHSHA
+        ContentPanel.Controls.Add(act7Button);
+
         ContentPanel.Controls.Add(title);
         ContentPanel.Controls.Add(overview);
         ContentPanel.Controls.Add(modules);

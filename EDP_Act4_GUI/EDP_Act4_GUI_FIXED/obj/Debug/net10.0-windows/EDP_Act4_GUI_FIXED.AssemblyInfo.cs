@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EDP_Act4_GUI_FIXED")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6364c35e6523fc20223d3fa46929657a8bad587")]
 [assembly: System.Reflection.AssemblyProductAttribute("EDP_Act4_GUI_FIXED")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EDP_Act4_GUI_FIXED")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
